@@ -1,0 +1,16 @@
+"*":
+  core:
+    audioBeep: false
+    disabledPackages: [
+      "metrics"
+    ]
+  editor:
+    invisibles: {}
+    showInvisibles: true
+    softWrap: true
+    tabLength: 4
+    tabType: "soft"
+  "exception-reporting":
+    userId: "6756f1a3-8277-db9c-28ec-59d355ec8c1e"
+  welcome:
+    showOnStartup: false
